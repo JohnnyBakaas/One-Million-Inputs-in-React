@@ -1,4 +1,4 @@
-export const chronoInputs /* : Array<(typeof inputTypeOptions)[number]> */ = [
+export const chronoInputs = [
   "date",
   "datetime-local",
   "month",
