@@ -1,0 +1,17 @@
+export const inputTypeOptions = [
+  "button",
+  "checkbox",
+  "color",
+  "email",
+  "number",
+  "radio",
+  "range",
+  "search",
+  "tel",
+  "text",
+  "date",
+  "datetime-local",
+  "month",
+  "time",
+  "week",
+] as const;

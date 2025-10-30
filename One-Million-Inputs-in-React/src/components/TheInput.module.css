@@ -1,0 +1,7 @@
+.input-wrapper {
+  padding: 1rem;
+  background-color: black;
+
+  display: flex;
+  gap: 1em;
+}
